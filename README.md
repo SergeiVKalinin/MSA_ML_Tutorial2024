@@ -6,15 +6,25 @@ Sergei V. Kalinin, UT Knoxville and PNNL
 Kevin M. Roccapriore, AtomQ and Oak Ridge National Laboratory
 
 8.30 – 9.00 	Lecture 1: Machine learning in full electron microscopy workflow (Kalinin)
+
 9.00 – 10.00 	Lecture 2: ML for spectroscopy and imaging data (Kalinin)
+
 10.00 – 10.30 	Coffee break
+
 10.30 – 12.00 	Lecture 3: Variational Autoencoders for imaging, spectra, and structure-property 			relationships (Kalinin)
+
 12.00 – 1.00 	Lunch break
+
 1.00 – 2.00 	Lecture 4: From post-acquisition to real-time analysis: ensemble networks and 			automated experiment (Roccapriore)
+
 2.00 – 2.30 	Coffee break
+
 2.30 – 3.30 	Lecture 5: Decision making algorithms and reward-based workflows (Kalinin)
+
 3.30 – 4.30 	Lecture 6: Automated EELS and 4D STEM (Roccapriore)
+
 4.30 – 5.00 	Lecture 7: Human in the loop automated experiment and LLM-based co-scientists 			(Kalinin)
+
 
 Overview:
 Machine Learning (ML) and Artificial Intelligence (AI) are transforming various fields, including medicine, autonomous driving, and now, electron microscopy. Over the past two years, the barriers to adopting and implementing ML methods in microscopy have significantly lowered, thanks to advancements like code assistants and Python APIs provided by many manufacturers. Despite this, ML is often perceived as a collection of disparate tools. This course aims to integrate these tools and demonstrate how ML can be seamlessly used across all aspects of a microscopist's work, from sample selection and instrument optimization to data analysis.
